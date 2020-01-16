@@ -22,7 +22,7 @@
     },
     "prefer-stable": true,
     "require": {
-        "php": "^7.1",
+        "php": "^7.1|^7.2",
         "ext-dom": "*",
         "sebastian/finder-facade": "^1.1",
         "sebastian/version": "^1.0|^2.0",
